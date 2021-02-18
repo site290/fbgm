@@ -3,6 +3,10 @@ body {
   background-color: #201f1f;
 }
 
+.main {
+  text-align: center;
+}
+
 .zag {
   color: white;
   font-size: 30px;
