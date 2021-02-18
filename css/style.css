@@ -23,14 +23,7 @@ body {
 }
 
 .tab {
-  display: block;
-  width: 100%;
-  overflow-x: scroll;
-  overflow-y: hidden;
-  -ms-overflow-style: -ms-autohiding-scrollbar;
-  -webkit-overflow-scrolling: touch;
-  width: 100px;
-  table-layout: auto;
+  text-align: center;
   color: white;
   border: 2px;
 }
