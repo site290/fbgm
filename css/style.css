@@ -37,6 +37,7 @@ body {
 .par {
   color: white;
   font-size: 10px;
+  text-align: center;
 }
 
 .url {
@@ -45,4 +46,5 @@ body {
 
 .am {
   color: white;
+  text-align: center;
 }
